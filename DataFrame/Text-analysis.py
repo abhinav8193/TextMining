@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 df=pd.read_csv("filename.csv")
 
-
 class TextProcessing(object):
  	"""docstring for ClassName"""
  	def __init__(self, arg):
